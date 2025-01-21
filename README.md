@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+David Carbajal
 
 ## UX Team Project
 
