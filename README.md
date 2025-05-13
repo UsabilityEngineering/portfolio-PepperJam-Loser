@@ -8,4 +8,7 @@ David Carbajal
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Journal 2](journal2/)
+
+[Journal 1](journal/)
+
