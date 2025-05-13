@@ -4,7 +4,7 @@ David Carbajal
 
 ## UX Team Project
 
-Coming soon.
+[ClipbeeUX](https://github.com/ChicoState/clipbee-ux)
 
 ## UX Journal
 
